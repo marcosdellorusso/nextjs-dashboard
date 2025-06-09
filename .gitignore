@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Next.js build output
+.next/
+out/
+
+# Vercel
+.vercel/
+
+# Local env files
+.env*
+!.env.example
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+
+# TypeScript
+*.tsbuildinfo
+
+# MacOS
+*.DS_Store
+
+# Tailwind JIT cache
+.tailwindcache/
